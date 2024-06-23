@@ -1,0 +1,155 @@
+
+
+
+body {
+    background-color: #D7EFF4;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    text-align: center;
+}
+
+.text {
+    text-align: left;
+}
+
+
+img {
+    height: 400px;
+}
+
+
+footer {
+    padding: 10px;
+    font-size: 15px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    font-size: 15px;
+}
+
+
+.button1 {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button1:hover {
+    color: black;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button2 {
+    background-color: #1B8195;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button2:hover {
+    background-color: #519FAE;
+}
+
+
+
+
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #1B8195;
+    color: white;
+    z-index: 1000;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.navbar ul li {
+    display: inline;
+}
+
+.navbar ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 9px 11px;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover {
+    background-color: #519FAE;
+}
+
+.content {
+    padding-top: 60px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+.container {
+    /* We need these: top margin to compensate for fixed navbar (otherwise the container moves behind it). Side margin so the content doesn't hug the sides. */
+    margin: 80px 20px;
+}
+
+
+
+p, ol {
+    margin: 2% 20%;
+}
+
+
+
+.img {
+    max-width: 400px;
+    margin-right: 20px;
+    height: auto;
+}
+
+
+
+.title {
+    color: #007289;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title:hover {
+    color: #1B8195;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+.title a {
+    color: #007289;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title a:hover {
+    color: #1B8195;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+
