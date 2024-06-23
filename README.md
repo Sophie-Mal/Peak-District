@@ -46,7 +46,7 @@ Footer:
 -   includes copyright, year, name and rights to reserve\
 URL:
 
--   sophiemalpass.Wordpress.com
+-   https://sophie-mal.github.io
 
 Testing
 -------
