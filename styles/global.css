@@ -29,6 +29,10 @@ footer ul {
     font-size: 15px;
 }
 
+footer:hover {
+    font-size: 16px;
+}
+
 
 .button1 {
     color: black;
