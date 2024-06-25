@@ -1,6 +1,3 @@
-
-
-
 body {
     background-color: #D7EFF4;
     margin: 0;
@@ -26,7 +23,7 @@ footer {
 footer ul {
     list-style: none;
     padding: 0;
-    font-size: 15px;
+    font-size: 15vw;
 }
 
 footer:hover {
@@ -116,9 +113,19 @@ section {
 
 
 
-p, ol {
-    /* This makes the text group in the centre a bit more rather than off to the sides. */
-    margin: 2% 20%;
+p,
+ol {
+    width: 100%;
+    font-size: 20px;
+}
+
+@media screen and (min-width: 1024px) {
+
+    p,
+    ol {
+        /* This makes the text group in the centre a bit more rather than off to the sides. */
+        margin: 2% 20%;
+    }
 }
 
 
@@ -155,6 +162,3 @@ p, ol {
     text-decoration: underline;
     font-weight: bold;
 }
-
-
-
