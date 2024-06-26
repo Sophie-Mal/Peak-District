@@ -17,17 +17,17 @@ img {
 
 footer {
     padding: 10px;
-    font-size: 15vw;
+    font-size: 15px;
 }
 
 footer ul {
     list-style: none;
     padding: 0;
-    font-size: 15vw;
+    font-size: 15px;
 }
 
 footer:hover {
-    font-size: 16vw;
+    font-size: 16px;
 }
 
 
@@ -41,7 +41,7 @@ footer:hover {
     color: black;
     text-decoration: underline;
     display: inline-block;
-    font-size: 15vw;
+    font-size: 15px;
 }
 
 .button2 {
@@ -53,7 +53,7 @@ footer:hover {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16vw;
+    font-size: 16px;
 }
 
 .button2:hover {
