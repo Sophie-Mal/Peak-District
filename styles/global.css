@@ -12,6 +12,8 @@ body {
 
 img {
     height: 400px;
+    max-width: 100%;
+    margin-right: 20px;
 }
 
 
@@ -129,13 +131,6 @@ section {
         /* This makes the text group in the centre a bit more rather than off to the sides. */
         margin: 2% 20%;
     }
-}
-
-
-
-.img {
-    max-width: 100%;
-    margin-right: 20px;
 }
 
 
