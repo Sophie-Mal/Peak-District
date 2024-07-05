@@ -73,19 +73,19 @@ footer:hover {
 }
 
 /* Only large screens should have a navbar that follows you */
-@media (min-width: 600px){
-    .navbar{
+@media (min-width: 600px) {
+    .navbar {
         position: fixed;
         top: 0;
     }
 
-    .container{
+    .container {
         /* We need these: top margin to compensate for fixed navbar (otherwise the container moves behind it). Side margin so the content doesn't hug the sides. */
         margin: 80px 20px;
     }
 }
 
-.container{
+.container {
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -124,14 +124,18 @@ section {
 }
 
 
-p,
-ol {
-    font-size: 1em;
+p {
     text-align: center;
 }
 
+ol,
+p {
+    font-size: 1em;
+}
+
 /* For bigger screens */
-@media (min-width: 2000px){
+@media (min-width: 2000px) {
+
     p,
     ol {
         font-size: 1.5em !important;
