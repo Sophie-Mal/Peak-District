@@ -65,6 +65,7 @@ The following list of devices are what I used to test my website while being bui
 * MacBook Air  
 * PC 
 
+<img src="devices.png">
 
 Real User Testing Feedback
 
