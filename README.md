@@ -43,10 +43,12 @@ Key Design Elements:
 Color Scheme:
 
 * Blue: Representing skies, lakes, and serenity.
+The following website are what I used to find a color scheme I preferred for the information I would be displaying: 
+* [Coolors](https://coolors.co/), [Material Palette](https://www.materialpalette.com/)
 
 Imagery:
 Imagery plays a crucial role in conveying the allure of the Peak District. The image resources below are what have been used to find free, relevant images, and to resize the images to ensure better loading times on the website when using different devices and networks.
-* [Pexels](https://www.pexels.com/){:target="_blank"rel="noopener"}, [Pixabay](https://pixabay.com/), Vecteezy, Megapixl, Unsplash, TinyPNG, Simple Image Resizer.
+* [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), [Vecteezy](https://www.vecteezy.com/), [Megapixl](https://www.megapixl.com/), [Unsplash](https://unsplash.com/), [TinyPNG](https://tinypng.com/), [Simple Image Resizer](https://www.simpleimageresizer.com/).
 
 Device Testing Throughout:
 
