@@ -35,6 +35,7 @@ The following website are what I used to find a color scheme I preferred for the
 * [Coolors](https://coolors.co/), [Material Palette](https://www.materialpalette.com/)
 
 Imagery:
+
 Imagery plays a crucial role in conveying the allure of the Peak District. The image resources below are what have been used to find free, relevant images, and to resize the images to ensure better loading times on the website when using different devices and networks.
 * [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), [Vecteezy](https://www.vecteezy.com/), [Megapixl](https://www.megapixl.com/), [Unsplash](https://unsplash.com/), [TinyPNG](https://tinypng.com/), [Simple Image Resizer](https://www.simpleimageresizer.com/).
 
