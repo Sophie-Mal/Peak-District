@@ -37,7 +37,6 @@ Key Design Elements:
 * Responsive Design: Optimised for various devices, including desktops, tablets, and smartphones.
 * Navigation Menu: Clear and intuitive menu categorising information into Attractions, Activities, Accommodations, Travel Tips, and Events.
 * Search Functionality: A powerful search bar allowing users to quickly locate specific information.
-* Interactive Maps: Maps highlighting key locations and providing directions.
 * Photo Galleries: High-quality images showcasing the beauty of the Peak District.
 
 Color Scheme:
@@ -109,21 +108,19 @@ Overall Summary
     * Including more examples of things in the Peak District and additional information about disabled facilities and parking.
     * Highlight "Miles without Stiles" trails for people with mobility issues.
     * More multimedia content like videos.
-    * Include addresses or maps for easier navigation.
+    * Include addresses or interactive maps for easier navigation.
     * Clarify that titles of places link to their respective websites.
-    * Consider adding language options for non-English speaking visitors.
+    * Consider adding different language options for non-English speaking visitors.
 
-Resources and Acknowledgements
+Resources and Acknowledgements:
+Below shows some of the resources used to create a user-friendly website, that is presented in the best way possible.
 
-Design:
-
-* The below design resources were used for finding a nice colour scheme, ensuring there wasn’t too much of a contrast and keeping the website easy to view and read.
-* Material Palette, Coolors.
+Design: 
+* [Coolors](https://coolors.co/), [Material Palette](https://www.materialpalette.com/)
+* [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), [Vecteezy](https://www.vecteezy.com/), [Megapixl](https://www.megapixl.com/), [Unsplash](https://unsplash.com/), [TinyPNG](https://tinypng.com/), [Simple Image Resizer](https://www.simpleimageresizer.com/).
 
 Website Building:
-
-* The below resources were used to help with certain aspects of the website building, ensuring the website is working as it should and has no issues, and testing the website on different devices to see how it will respond.
-* W3Schools, Validator, Responsinator.
+* [W3Schools](https://www.w3schools.com/), [Validator](https://validator.w3.org/), [Responsinator](http://www.responsinator.com/).
 
 Acknowledgements: 
 
