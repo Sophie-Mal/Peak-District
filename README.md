@@ -45,9 +45,10 @@ Color Scheme:
 * Blue: Representing skies, lakes, and serenity.
 
 Imagery:
-Imagery plays a crucial role in conveying the allure of the Peak District. The website features a blend of professional and user-generated photos to provide authentic and inspiring visuals.
+Imagery plays a crucial role in conveying the allure of the Peak District. The image resources below are what have been used to find free, relevant images, and to resize the images to ensure better loading times on the website when using different devices and networks.
+* [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), Vecteezy, Megapixl, Unsplash, TinyPNG, Simple Image Resizer.
 
-Device Testing throughout:
+Device Testing Throughout:
 
 During the process of making my website I used a range of different devices to test the responsiveness of the website. 
 I found issues with the website being used on phones, where the top nav bar and the footer wouldn’t stretch to either side of the page and was slightly squashed into the centre making it more difficult to read and use. The top nav bar also covered the title when viewed on phones as while it was squashed into the centre of the page, it was stretched down causing this to happen.
@@ -111,11 +112,6 @@ Overall Summary
     * Consider adding language options for non-English speaking visitors.
 
 Resources and Acknowledgements
-
-Images:
-
-* The below image resources were used for finding free images, and resizing images to ensure better loading on the website on different devices and networks.
-* Pexels, Pixabay, Vecteezy, Megapixl, Unsplash, TinyPNG, Simple Image Resizer.
 
 Design:
 
