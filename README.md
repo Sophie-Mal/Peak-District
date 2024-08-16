@@ -46,7 +46,7 @@ Color Scheme:
 
 Imagery:
 Imagery plays a crucial role in conveying the allure of the Peak District. The image resources below are what have been used to find free, relevant images, and to resize the images to ensure better loading times on the website when using different devices and networks.
-* [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), Vecteezy, Megapixl, Unsplash, TinyPNG, Simple Image Resizer.
+* [Pexels](https://www.pexels.com/){:target="_blank"rel="noopener"}, [Pixabay](https://pixabay.com/), Vecteezy, Megapixl, Unsplash, TinyPNG, Simple Image Resizer.
 
 Device Testing Throughout:
 
