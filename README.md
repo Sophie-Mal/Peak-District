@@ -1,5 +1,7 @@
 Welcome to the Peak District
 
+[Peak District](images/pexelspeak2.jpg)
+
 Overview
 
 "Peak District" is a comprehensive guide designed to help visitors discover the beauty, history, and attractions of the Peak District National Park. Whether you're a first-time visitor or a seasoned explorer, our website provides valuable insights to make your visit unforgettable.
