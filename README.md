@@ -1,6 +1,6 @@
 Welcome to the Peak District
 
-[Peak District](images/pexelspeak2.jpg)
+![Peak District](images/pexelspeak2.jpg)
 
 Overview
 
