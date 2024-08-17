@@ -34,6 +34,8 @@ Color Scheme:
 The following website are what I used to find a color scheme I preferred for the information I would be displaying: 
 * [Coolors](https://coolors.co/), [Material Palette](https://www.materialpalette.com/)
 
+![Colors](images/colors.png)
+
 Imagery:
 
 Imagery plays a crucial role in conveying the allure of the Peak District. The image resources below are what have been used to find free, relevant images, and to resize the images to ensure better loading times on the website when using different devices and networks.
@@ -78,6 +80,16 @@ Key Design Elements:
 
 Website Building:
 * [W3Schools](https://www.w3schools.com/), [Validator](https://validator.w3.org/), [Responsinator](http://www.responsinator.com/).
+
+Validator scores: 
+
+The HTML validator came back with the hr tag being out of place, however this is what is used to create a break between the webpage and the footer.
+
+![HTML Validator](images/HTMLvalidator.png)
+
+The CSS validator came back clear with no known issues.
+
+![CSS Validator](images/CSSvalidator.png)
 
 Acknowledgements: 
 
