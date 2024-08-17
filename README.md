@@ -80,6 +80,18 @@ Key Design Elements:
 * Search Functionality: A powerful search bar allowing users to quickly locate specific information.
 * Photo Galleries: High-quality images showcasing the beauty of the Peak District.
 
+Navigation:
+
+I chose to have a navigation bar at the top of the webpage as this allows easy navigation throughout the site. This helps most users find their way through the website as easily as possible.
+On larger devices (tablets/ipads etc) the navigation bar moves over the page as you scroll, this is helpful as you can switch to another page at any point.
+On smaller devices (phones etc) the navigation bar is stationary at the top of the page as you scroll, this is because there isn't as much space on the screen and this allows for more space to view images and read the information presented.
+
+![NavBar](images/navbar.png)
+
+There is also a footer which contains a link to each page. This is stationary on every page, and just purely there for practical reasons, especially on phones where the navigation bar doesn't follow the page. This just shows the pages and contains my Copyright tag.
+
+![Footer](images/footer.png)
+
 Website Building:
 * [W3Schools](https://www.w3schools.com/), [Validator](https://validator.w3.org/), [Responsinator](http://www.responsinator.com/).
 
