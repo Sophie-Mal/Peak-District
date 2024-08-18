@@ -92,6 +92,16 @@ There is also a footer which contains a link to each page. This is stationary on
 
 ![Footer](images/footer.png)
 
+Layout:
+
+Current:
+
+The current layout of the website is to have a title, then an image, showcasing the piece of information below.
+
+Future:
+
+I would like to re-arrange the layout to have a title, then an image and place the information to the right of the image, then the one below the information would be to the left of the image. This will give the website more of a newpaper/magazine look and feel to it.
+
 Website Building:
 * [W3Schools](https://www.w3schools.com/), [Validator](https://validator.w3.org/), [Responsinator](http://www.responsinator.com/).
 
