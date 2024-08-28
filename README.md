@@ -119,6 +119,14 @@ Acknowledgements:
 
 * Special thanks to friends and family for providing invaluable feedback and participating in real user testing, helping to refine and improve the website.
 
+Testing User Stories
+
+Below will explain how I achieved my user goals on this website:
+
+* The website consolidates essential information on the Peak District, including guides to visitor attractions, natural features, activities, and accommodations, providing a one-stop resource for trip planning.
+* It offers in-depth descriptions of various attractions and accommodations, allowing visitors to make informed decisions about where to stay and what to do.
+* By highlighting the historical and natural significance of the Peak District, the website encourages sustainable tourism practices and promotes the preservation of these sites.
+
 Real User Testing Feedback
 
 * Design and Layout:
