@@ -86,17 +86,16 @@ I chose to have a navigation bar at the top of the webpage as this allows easy n
 On larger devices (tablets/ipads etc) the navigation bar moves over the page as you scroll, this is helpful as you can switch to another page at any point.
 On smaller devices (phones etc) the navigation bar is stationary at the top of the page as you scroll, this is because there isn't as much space on the screen and this allows for more space to view images and read the information presented.
 
-![LinkFeedback](images/linkfeedback.png)
-
-When you hover over the titles of each section, it changes colour slightly and underlines to show it is a link. Each link takes you to an external page, either the wikipedia for more information, or a booking site for the accommodation etc.
-
 ![NavBar](images/navbar.png)
 
 There is also a footer which contains a link to each page. This is stationary on every page, and just purely there for practical reasons, especially on phones where the navigation bar doesn't follow the page. This just shows the pages and contains my Copyright tag.
 
 ![Footer](images/footer.png)
 
+When you hover over the titles of each section, it changes colour slightly and underlines to show it is a link. Each link takes you to an external page, either the wikipedia for more information, or a booking site for the accommodation etc.
 Layout:
+
+![LinkFeedback](images/linkfeedback.png)
 
 Current:
 
