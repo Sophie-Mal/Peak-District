@@ -97,11 +97,11 @@ Layout:
 
 ![LinkFeedback](images/linkfeedback.png)
 
-Current:
+The Current Layout Structure:
 
 The current layout of the website is to have a title, then an image, showcasing the piece of information below.
 
-Future:
+Future Layout Structure Plans:
 
 I would like to re-arrange the layout to have a title, then an image and place the information to the right of the image, then the one below the information would be to the left of the image. This will give the website more of a newpaper/magazine look and feel to it.
 
@@ -110,7 +110,7 @@ Website Building:
 
 Validator scores: 
 
-The HTML validator came back with the hr tag being out of place, however this is what is used to create a break between the webpage and the footer.
+The HTML validator came back with the hr tag being out of place, however this is what is used to create a break between the webpage and the footer and there was no way of changing this so the HTML validator accepted it.
 
 ![HTML Validator](images/HTMLvalidator.png)
 
@@ -130,7 +130,9 @@ Below will explain how I achieved my user goals on this website:
 * It offers in-depth descriptions of various attractions and accommodations, allowing visitors to make informed decisions about where to stay and what to do.
 * By highlighting the historical and natural significance of the Peak District, the website encourages sustainable tourism practices and promotes the preservation of these sites.
 
-Real User Testing Feedback
+Real User Testing Feedback:
+
+I gave 5 different types of people a questionnaire to fill out after using and testing my website, below is their answers, summarized, including things to improve:
 
 * Design and Layout:
     * Clean, simple, and easy to navigate.
@@ -162,6 +164,7 @@ Real User Testing Feedback
 Overall Summary
 
 * Users were very satisfied with the website overall, rating it highly in terms of design, functionality, and user experience.
+
 * Suggestions for improvement included:
     * Changing the hotel to one closer to the Peak District.
     * Linking the tourist information centre to the Peak District one.
